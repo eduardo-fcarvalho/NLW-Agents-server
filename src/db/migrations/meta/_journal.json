@@ -15,6 +15,13 @@
       "when": 1752066843655,
       "tag": "0001_lumpy_taskmaster",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752160663915,
+      "tag": "0002_nebulous_brother_voodoo",
+      "breakpoints": true
     }
   ]
 }
